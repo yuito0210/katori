@@ -1,0 +1,574 @@
+// Place all the styles related to the locals controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.first{
+    height: 800px;
+    width: auto;
+    background-color: #ffff;
+    background-image: url("katoritest.jpg");
+    background-size: cover;
+}
+
+.second{
+    height: 860px;
+    width: auto;
+    background-color: #20C4CA;
+.secondimage{
+    text-align: center;
+    padding-top: 200px;
+    }
+    .linkfirst{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 320px;
+        height: 40px;
+        margin-top: 50px;
+        margin-left: 37%;
+        padding: 8px 24px;
+        font-family: sans-serif;
+        font-size: 16px;
+        color: #0F0E0E;
+        text-align: center;
+        overflow-wrap: anywhere;
+        background-color: #ffff;
+        border-radius: 32px; /* (buttonの高さ / 2) の値 */
+        border: solid;
+    }
+}
+
+.third{
+    height: 460px;
+    width: 500px;
+    background-color: #ffff;
+    object-fit: cover;
+}
+
+.fourth{
+    height: 460px;
+    width: 500px;
+    background-color: #20C4CA;
+
+    .mozithird{
+        color: #ffff;
+        font-size: 36px;
+        text-align: center;
+        padding-top: 200px;
+    }
+
+    .mozifourth{
+        color: #ffff;
+        font-size: 20px;
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .linkthird{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 320px;
+        height: 40px;
+        margin-top: 50px;
+        margin-left: 13%;
+        padding: 8px 24px;
+        font-family: sans-serif;
+        font-size: 16px;
+        color: #0F0E0E;
+        text-align: center;
+        overflow-wrap: anywhere;
+        background-color: #ffff;
+        border-radius: 32px; /* (buttonの高さ / 2) の値 */
+        border: solid;
+    }
+}
+
+.fifth{
+    height: 460px;
+    width: 510px;
+    background-color: #ffff;
+    
+
+    .mozifirst{
+        color: #0F0E0E;
+        font-size: 36px;
+        text-align: center;
+        padding-top: 150px;
+    }
+
+    .mozisecond{
+        color: #0F0E0E;
+        font-size: 20px;
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .linksecond{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 320px;
+        height: 40px;
+        margin-top: 50px;
+        margin-left: 13%;
+        padding: 8px 24px;
+        font-family: sans-serif;
+        font-size: 16px;
+        color: #0F0E0E;
+        text-align: center;
+        overflow-wrap: anywhere;
+        background-color: #ffff;
+        border-radius: 32px; /* (buttonの高さ / 2) の値 */
+        border: solid;
+    }
+}
+
+.sixth{
+    height: 460px;
+    width: 510px;
+    background-color: #20C4CA;
+    object-fit: cover;
+}
+
+.seventh{
+    height: 460px;
+    width: 510px;
+    background-color: #ffff;
+    object-fit: cover;
+}
+
+.eighth{
+    height: 460px;
+    width: 510px;
+    background-color: #20C4CA;
+    
+    .mozififth{
+        color: #ffff;
+        font-size: 36px;
+        text-align: center;
+        padding-top: 200px;
+    }
+
+    .mozisixth{
+        color: #ffff;
+        font-size: 20px;
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .linkfourth{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 320px;
+        height: 40px;
+        margin-top: 40px;
+        margin-left: 13%;
+        padding: 8px 24px;
+        font-family: sans-serif;
+        font-size: 16px;
+        color: #0F0E0E;
+        text-align: center;
+        overflow-wrap: anywhere;
+        background-color: #ffff;
+        border-radius: 32px; /* (buttonの高さ / 2) の値 */
+        border: solid;
+    }
+}
+
+.aaa{
+    display: flex;
+}
+
+.bbb{
+    display: flex;
+}
+
+.indexfirst{
+    height: 200px;
+    width: auto;
+    background-color: #ffff;
+}
+.mozi{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 100px;
+    font-family: 'Amatic SC', cursive;
+}
+.indexsecond{
+    height: 1130px;
+    width: auto;
+    background-color: #ffff;
+}
+.katoriimage{
+    text-align: center;
+    bottom: 10px;
+}
+.profile{
+    width: auto;
+    height: 280px;
+    position: relative;
+    background-color: #838383;
+    position: relative;
+    bottom: -500px;
+
+    
+    }
+
+    .cccc{
+        position: absolute;
+        bottom: 100px;
+        right:250px
+    }
+.moziseventh{
+    color: #0F0E0E;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 600px;
+    }
+.linkfifth{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 320px;
+    height: 40px;
+    margin-top: 60px;
+    margin-left: 37%;
+    padding: 8px 24px;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #0F0E0E;
+    text-align: center;
+    overflow-wrap: anywhere;
+    background-color: #ffff;
+    border-radius: 32px; /* (buttonの高さ / 2) の値 */
+    border: solid;
+}
+
+
+.indexthird{
+    height: 1130px;
+    width: auto;
+    background-color: #ffff;
+.backgroundsecond{
+        height: 280px;
+        width: auto;
+        margin-top: 500px;
+        background-color: #838383;
+        }
+.mozieighth{
+    color: #0F0E0E;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 60px;
+    }
+.linksixth{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 320px;
+    height: 40px;
+    margin-top: 60px;
+    margin-left: 37%;
+    padding: 8px 24px;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #0F0E0E;
+    text-align: center;
+    overflow-wrap: anywhere;
+    background-color: #ffff;
+    border-radius: 32px; /* (buttonの高さ / 2) の値 */
+    border: solid;
+    }
+}
+
+.indexfourth{
+    height: 1130px;
+    width: auto;
+    background-color: #ffff;
+.backgroundthird{
+    height: 280px;
+    width: auto;
+    margin-top: 500px;
+    background-color: #838383;
+    }
+.mozinineth{
+    color: #0F0E0E;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 60px;
+    }
+.linkseventh{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 320px;
+    height: 40px;
+    margin-top: 60px;
+    margin-left: 37%;
+    padding: 8px 24px;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #0F0E0E;
+    text-align: center;
+    overflow-wrap: anywhere;
+    background-color: #ffff;
+    border-radius: 32px; /* (buttonの高さ / 2) の値 */
+    border: solid;
+    }
+}
+
+.container{
+    width: auto;
+    height: 3350px;
+}
+
+.iframe-wrp{
+    padding: 100px;
+}
+.foodfirst{
+    width: auto;
+    height: 475px;
+    display: flex;
+    align-content:stretch;       
+    flex-wrap: wrap;
+}
+.imagefirst{
+    width: 900px;
+    height: 475px;
+    object-fit: cover;
+    }
+.zyuusannri{
+    width: 610px;
+    height: 475px;
+    background-color: #EDE9DF;
+    }
+.zyuusannrifirst{
+    color: #0F0E0E;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 100px;
+    }
+.zyuusannrisecond{
+    color: #0F0E0E;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    }
+.mapfirst{
+    margin: 100px,20px;
+}
+
+.foodsecond{
+    width: auto;
+    height: 475px;
+    display: flex;
+.imagesecond{
+    width: 60%;
+    height: 475px;
+    }
+.hoteiya{
+    width: 610px;
+    height: 475px;
+    background-color: #ffff;
+    }
+.hoteiyafirst{
+    color: #0F0E0E;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 100px;
+    }
+.hoteiyasecond{
+    color: #0F0E0E;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    }
+.mapsecond{
+    padding: 100px,20px;
+    }
+}
+
+.foodthird{
+    width: auto;
+    height: 475px;
+    display: flex;
+.imagethird{
+    width: 60%;
+    height: 475px;
+    }
+.kakann{
+    width: 610px;
+    height: 475px;
+    background-color: #EDE9DF;
+    }
+.kakannfirst{
+    color: #0F0E0E;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 100px;
+    }
+.kakannsecond{
+    color: #0F0E0E;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    }
+.mapthid{
+    padding: 100px,20px;
+    }
+}
+
+.foodfourth{
+    width: auto;
+    height: 475px;
+    display: flex;
+.imagefourth{
+    width: 60%;
+    height: 475px;
+    }
+.hasegawa{
+    width: 610px;
+    height: 475px;
+    background-color: #ffff;
+    }
+.hasegawafirst{
+    color: #0F0E0E;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 100px;
+    }
+.hasegawasecond{
+    color: #0F0E0E;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    }
+.mapfourth{
+    padding: 100px,20px;
+    }
+}
+
+.foodfifth{
+    width: auto;
+    height: 475px;
+    display: flex;
+.imagefifth{
+    width: 60%;
+    height: 475px;
+    }
+.koboriya{
+    width: 610px;
+    height: 475px;
+    background-color: #EDE9DF;
+    }
+.koboriyafirst{
+    color: #0F0E0E;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 100px;
+    }
+.koboriyasecond{
+    margin: 0auto;
+    color: #0F0E0E;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    }
+}
+.foodsixth{
+    width: auto;
+    height: 475px;
+    display: flex;
+    flex-wrap: nowrap
+}
+.imagesixth{
+    width: 60%;
+    height: 475px;
+    background-color: #20C4CA;
+    
+}
+.yume{
+    width: 610px;
+    height: 475px;
+    background-color: #ffff;
+}
+.yumefirst{
+    color: #0F0E0E;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 100px;
+}
+.yumesecond{
+    color: #0F0E0E;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+.foodseventh{
+    width: auto;
+    height: 475px;
+    display: flex;
+.imageseventh{
+    width: 60%;
+    height: 475px;
+    }
+.wa-zu{
+    width: 610px;
+    height: 475px;
+    background-color: #EDE9DF;
+    }
+.wa-zufirst{
+    color: #0F0E0E;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 100px;
+}
+.wa-zusecond{
+    color: #0F0E0E;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+}
+
+.tourismfirst{
+    width: auto;
+    height: 475px;
+    display: flex;
+}
+.imageeighth{
+    width: 60%;
+    height: 475px;
+    }
+.tourismbackground-brawn{
+    width: 610px;
+    height: 475px;
+    background-color: #EDE9DF;
+    margin-right: 0px;
+}
+.tourismbackground-white{
+    width: 610px;
+    height: 475px;
+    background-color: #ffff;
+    margin-right: 0px;
+}
+.tourismsecond{
+    color: #0F0E0E;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 100px;
+    }
+.tourismthird{
+    color: #0F0E0E;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    }
+.iframe-wrp{
+    padding: 120px;
+    margin-bottom: 0px;
+    }
+
+
+

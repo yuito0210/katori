@@ -1,0 +1,57 @@
+// Place all the styles related to the diagnoses controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.diagnosfirst{
+    width: auto;
+    height: 870px;
+    background-color: #20C4CA;
+}
+.diagnossecond{
+    width: auto;
+    height: 150px;
+    font-size: 40px;
+    color: #ffff;
+    text-align: center;
+    padding-top: 100px;
+}
+.diagnosthird{
+    width: auto;
+    height: 300px;
+    background-color: #20C4CA;
+    display: flex;
+}
+.box1{
+    width:400px;
+    height:250px;
+    background:#ffff;
+    border-radius:50%;
+    border: solid;
+    color: #0F0E0E;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 200px;
+    padding: 8px 24px;
+    font-size: 40px;
+}
+.result{
+    background-color: #20C4CA;
+    text-align: center;
+    padding-top: 50px;
+}
+.resultfirst{
+    width: auto;
+    height: 45px;
+    font-size: 30px;
+    color: #0F0E0E;
+    text-align: center;
+}
+.resultsecond{
+    width: auto;
+    height: 60px;
+    font-size: 20px;
+    color: #0F0E0E;
+    text-align: center;
+}
